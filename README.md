@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Homepage : dongheechoi.github.io
+* [Homepage](https://dongheechoi.github.io)
